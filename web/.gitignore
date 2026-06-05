@@ -1,0 +1,15 @@
+# Next.js
+.next/
+out/
+node_modules/
+
+# Env — NEVER commit real secrets
+.env.local
+.env.production
+
+# Vercel
+.vercel/
+
+# OS
+.DS_Store
+Thumbs.db
